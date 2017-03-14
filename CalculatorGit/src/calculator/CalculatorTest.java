@@ -11,5 +11,6 @@ public class CalculatorTest {
 		assertEquals(1, new Calculator().calculate("2+2"));
 		
 	}
+	
 
 }
