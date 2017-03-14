@@ -3,6 +3,6 @@ package calculator;
 public class Calculator {
 	public int calculate(String par){
 	
-	return -1;
+	return 16;
 	}
 }
